@@ -3,6 +3,13 @@
 
 ---
 
+## Documentation & Presentations
+
+- **[Full Thesis PDF](docs/master_thesis.pdf)** - Complete research document with detailed methodology and results
+- **[Thesis Presentation](docs/master_thesis_presentation.pptx)** - PowerPoint presentation summarizing key findings
+
+---
+
 ## Overview
 
 This repository contains the full body of research and code from my master's thesis on the inverse design of photonic structures for dielectric laser acceleration (DLA). The project focuses on designing and optimizing periodic and non-periodic dual-pillar silicon structures to maximize the energy gain of an electron beam.
