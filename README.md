@@ -28,7 +28,7 @@ The core of this work is the development and application of a sophisticated comp
 
 ## Core Methodologies
 
--   **Adjoint Method**: Used to efficiently calculate the gradient of the objective function (i.e., the accelerating field) with respect to all geometric parameters of the structure from just two simulations, drastically reducing computational cost.
+-   **Adjoint Method**:  A mathematical technique to efficiently compute the gradient of an objective function (i.e., the accelerating field) with respect to many design variables. In this project, it allows high-dimensional optimization using just two FDTD simulations per iteration, drastically reducing computational cost.
 -   **FDTD Simulations**: All electromagnetic field calculations were performed using Lumerical FDTD Solutions, integrated into a Python-based control script via the `lumapi` library.
 -   **Custom ADAM Optimizer**: An implementation of the ADAM algorithm to perform gradient-based parameter updates with momentum and adaptive learning rates.
 -   **Constraint & Weighting System**: A sophisticated system of constraints and weights was developed to guide the optimization, ensuring physically manufacturable designs and improving convergence by focusing on the most promising regions of the design space.
