@@ -11,13 +11,13 @@ The core of this work is the development and application of a sophisticated comp
 
 ## Key Features & Technical Achievements
 
--   🚀 **Advanced Optimization Algorithms**: Implementation of a custom **ADAM optimizer** combined with a **basin-hopping** strategy for robust global optimization of non-convex, high-dimensional electromagnetic problems.
+-   **Advanced Optimization Algorithms**: Implementation of a custom **ADAM optimizer** combined with a **basin-hopping** strategy for robust global optimization of non-convex, high-dimensional electromagnetic problems.
 
--   🌊 **Complex Waveform Generation**: Successfully designed structures capable of producing arbitrary, non-sinusoidal accelerating fields, including **sawtooth waveforms** and **multi-harmonic superpositions**. This demonstrates the versatility of the inverse design framework.
+-   **Complex Waveform Generation**: Successfully designed structures capable of producing arbitrary, non-sinusoidal accelerating fields, including **sawtooth waveforms** and **multi-harmonic superpositions**. This demonstrates the versatility of the inverse design framework.
 
--   ⚡ **Dynamic & Aperiodic Design**: Developed methods to optimize non-periodic ("chirped") structures where the periodicity changes dynamically with the electron's energy. This is a critical step towards creating realistic, high-gradient accelerator sections.
+-   **Dynamic & Aperiodic Design**: Developed methods to optimize non-periodic ("chirped") structures where the periodicity changes dynamically with the electron's energy. This is a critical step towards creating realistic, high-gradient accelerator sections.
 
--   🗺️ **Comprehensive Design-Space Mapping**: Systematically mapped the design space to establish an empirical, sigmoid-based relationship between electron velocity (β) and the achievable accelerating field strength (E1), providing crucial design guidelines for future DLA research.
+-   **Comprehensive Design-Space Mapping**: Systematically mapped the design space to establish an empirical, sigmoid-based relationship between electron velocity (β) and the achievable accelerating field strength (E1), providing crucial design guidelines for future DLA research.
 
 ## Core Methodologies
 
